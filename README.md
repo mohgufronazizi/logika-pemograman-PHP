@@ -1,2 +1,2 @@
-# logika-pemograman-PHP
-bab 11
+# array-foreach-bootstrap
+Tugas BAB 11 membuat content artikel dan carousel dengan metode foreach
